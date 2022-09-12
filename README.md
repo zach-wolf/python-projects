@@ -1,2 +1,10 @@
 # python-projects
-A repo for modeling projects as I learn python
+This is a repo for modeling projects as I learn python.
+
+## Statcast
+
+## Data Science Salaries
+
+## Diamonds
+
+## UFC
