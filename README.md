@@ -15,4 +15,4 @@ This is a repo for modeling projects as I learn python.
 
 ### UFC
 
-- UFC
+- **UFC**: Using a dataset from Kaggle comprised of historic UFC data from 1994-2021, I predict the winner of a match based on fight and individual fighter features.
